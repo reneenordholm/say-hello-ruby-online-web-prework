@@ -2,5 +2,4 @@
 say_hello = "Ruby Programmer"
 puts "Hello #{say_hello}!"
 
-say_hello="Kent Black"
-puts "Hello #{say_hello}!"
+say_hello("Gabriela")
